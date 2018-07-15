@@ -4,10 +4,10 @@
 <head>
 </head>
 <body>
-<form>
+<form method="post">
   <span>user name:${param.username==null?"":param.username}</span>
-  <input type="username" size="50"/>
-  <input type="password" size="50"/>
+  <input type="text" name="username" size="50"/>
+  <input type="password" name="password" size="50"/>
   <input type="submit" value="submit"/>
 </form>
 </body>
