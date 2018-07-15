@@ -8,7 +8,7 @@
   <span>user name:${param.username==null?"":param.username}</span>
   <input type="text" name="username" size="50"/>
   <input type="password" name="password" size="50"/>
-  <input type="submit" value="submit"/>
+  <input type="submit" name="query" value="submit"/>
 </form>
 </body>
 </head>
