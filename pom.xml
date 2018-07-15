@@ -109,7 +109,7 @@
 						<properties>
 							<cargo.remote.username>admin</cargo.remote.username>
 							<cargo.remote.password>admin</cargo.remote.password>
-							<cargo.remote.uri>http://localhost:8090/manager/html</cargo.remote.uri>
+							<cargo.remote.uri>http://localhost:8090/manager/text</cargo.remote.uri>
 						</properties>
 					</configuration>
 				</configuration>
